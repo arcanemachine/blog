@@ -1,0 +1,14 @@
+# 11ty
+_site/
+
+# environment
+.env
+
+# npm
+/node_modules/
+
+# vim
+Session*.vim
+
+# misc
+*.ignore
